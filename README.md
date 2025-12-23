@@ -338,7 +338,8 @@ docker-compose ps
 
 Test Service에서 메모리 한계 도달 시 발생하는 `java.lang.OutOfMemoryError: Java heap space` 에러:
 
-로그 이미지1
+<img width="1821" height="664" alt="image" src="https://github.com/user-attachments/assets/1b969f99-c453-4311-beec-7bb1825c011c" />
+
 
 **증상**:
 - `java.lang.OutOfMemoryError: Java heap space`
@@ -354,7 +355,8 @@ Test Service에서 메모리 한계 도달 시 발생하는 `java.lang.OutOfMemo
 
 Gateway에서 백엔드 서비스와의 연결 문제 발생 시 에러:
 
-로그 이미지2
+<img width="1803" height="433" alt="image" src="https://github.com/user-attachments/assets/a5beb918-9b60-4192-9086-c87a7157527a" />
+
 
 **증상**:
 - `PrematureCloseException: Connection prematurely closed BEFORE response`
